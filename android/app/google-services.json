@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556693094180",
+    "project_id": "itc-fsktm",
+    "storage_bucket": "itc-fsktm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556693094180:android:5a4b2682eef8d8f5db3db1",
+        "android_client_info": {
+          "package_name": "com.fsktm.itc_debug_and_develop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTaqON5iPwY_l7TC97kbZxZaiaoYrco74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
